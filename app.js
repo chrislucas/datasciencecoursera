@@ -22,3 +22,4 @@ server.listen(3000, function(){
 	console.log('Test Ajax JSUML');
 });
 
+console.log('Test');
